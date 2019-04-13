@@ -1,5 +1,8 @@
 Updated version
 
+Another strategies:(intraday momentum+oscillaor+volume)
+https://www.tradingview.com/script/SgHwcRiu-Mixed-strategy-on-intraday-trading-v0-1-beta/
+
 Using backtrader backtesting framework
 https://github.com/backtrader/backtrader
 
